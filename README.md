@@ -8,4 +8,5 @@ All code is written in both C (as used in the text) and Rust, with the Rust code
 ## Chapter Notes
 
 [Chapter 1: A Tour of Computer Systems](ch1/README.md)
+
 [Chapter 2: Representing and Manipulating Information](ch2/README.md)
